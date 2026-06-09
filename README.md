@@ -49,21 +49,6 @@
 | `launchYear` | 节假日创立年份 |
 | `types` | 类型，`Public` = 法定节假日 |
 
-## 数据来源
-
-- **中国大陆、香港：** 手动维护
-- **美国、法国、德国、日本：** 通过 [nager.at API](https://date.nager.at/) 获取
-
-## 更新数据
-
-```bash
-# 安装依赖
-npm install
-
-# 从 nager.at 获取数据
-npm run fetch-data
-```
-
 ## 参与贡献
 
 1. Fork 本仓库
