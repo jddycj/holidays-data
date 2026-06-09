@@ -4,16 +4,18 @@
 
 ## 支持地区
 
-- 中国大陆
-- 香港
-- 美国
-- 法国
-- 德国
-- 日本
+| 地区 | 目录名 | 代码 |
+|------|--------|------|
+| 中国大陆 | china | CN |
+| 香港 | hongkong | HK |
+| 美国 | usa | US |
+| 法国 | france | FR |
+| 德国 | germany | DE |
+| 日本 | japan | JP |
 
 ## 数据格式
 
-每个地区每年一个 JSON 文件，按 `data/{地区}/{年份}.json` 组织：
+每个地区每年一个 JSON 文件，路径：`data/{目录名}/{年份}.json`
 
 ```json
 {
@@ -25,11 +27,13 @@
       "localName": "元旦",
       "name": "New Year's Day",
       "countryCode": "CN",
-      "fixed": true,
+      "fixed": false,
       "global": true,
       "counties": null,
       "launchYear": null,
-      "types": ["Public"]
+      "types": ["Public"],
+      "adjustWorkdays": ["2026-01-04"],
+      "extendedDaysOff": ["2026-01-01", "2026-01-02", "2026-01-03"]
     }
   ]
 }
@@ -48,6 +52,26 @@
 | `counties` | 部分地区适用时列出地区代码 |
 | `launchYear` | 节假日创立年份 |
 | `types` | 类型，`Public` = 法定节假日 |
+| `adjustWorkdays` | 调休上班日（仅中国大陆） |
+| `extendedDaysOff` | 连休期间所有休息日（仅中国大陆） |
+
+## 数据获取
+
+**GitHub**
+```
+https://raw.githubusercontent.com/jddycj/holidays-data/main/data/{目录名}/{年份}.json
+```
+
+**Gitee**
+```
+https://raw.giteeusercontent.com/jddxym/holidays-data/master/data/{目录名}/{年份}.json
+```
+
+示例：
+```
+https://raw.githubusercontent.com/jddycj/holidays-data/main/data/france/2026.json
+https://raw.giteeusercontent.com/jddxym/holidays-data/master/data/france/2026.json
+```
 
 ## 参与贡献
 

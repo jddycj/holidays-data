@@ -1,0 +1,724 @@
+{
+  "region": "china",
+  "year": 2018,
+  "holidays": [
+    {
+      "date": "2018-01-01",
+      "localName": "元旦",
+      "name": "New Year's Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-12-29"
+      ],
+      "extendedDaysOff": [
+        "2018-01-01",
+        "2018-12-30",
+        "2018-12-31"
+      ]
+    },
+    {
+      "date": "2018-02-15",
+      "localName": "春节",
+      "name": "Spring Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-02-11",
+        "2018-02-24"
+      ],
+      "extendedDaysOff": [
+        "2018-02-15",
+        "2018-02-16",
+        "2018-02-17",
+        "2018-02-18",
+        "2018-02-19",
+        "2018-02-20",
+        "2018-02-21"
+      ]
+    },
+    {
+      "date": "2018-02-16",
+      "localName": "春节",
+      "name": "Spring Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-02-11",
+        "2018-02-24"
+      ],
+      "extendedDaysOff": [
+        "2018-02-15",
+        "2018-02-16",
+        "2018-02-17",
+        "2018-02-18",
+        "2018-02-19",
+        "2018-02-20",
+        "2018-02-21"
+      ]
+    },
+    {
+      "date": "2018-02-17",
+      "localName": "春节",
+      "name": "Spring Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-02-11",
+        "2018-02-24"
+      ],
+      "extendedDaysOff": [
+        "2018-02-15",
+        "2018-02-16",
+        "2018-02-17",
+        "2018-02-18",
+        "2018-02-19",
+        "2018-02-20",
+        "2018-02-21"
+      ]
+    },
+    {
+      "date": "2018-02-18",
+      "localName": "春节",
+      "name": "Spring Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-02-11",
+        "2018-02-24"
+      ],
+      "extendedDaysOff": [
+        "2018-02-15",
+        "2018-02-16",
+        "2018-02-17",
+        "2018-02-18",
+        "2018-02-19",
+        "2018-02-20",
+        "2018-02-21"
+      ]
+    },
+    {
+      "date": "2018-02-19",
+      "localName": "春节",
+      "name": "Spring Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-02-11",
+        "2018-02-24"
+      ],
+      "extendedDaysOff": [
+        "2018-02-15",
+        "2018-02-16",
+        "2018-02-17",
+        "2018-02-18",
+        "2018-02-19",
+        "2018-02-20",
+        "2018-02-21"
+      ]
+    },
+    {
+      "date": "2018-02-20",
+      "localName": "春节",
+      "name": "Spring Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-02-11",
+        "2018-02-24"
+      ],
+      "extendedDaysOff": [
+        "2018-02-15",
+        "2018-02-16",
+        "2018-02-17",
+        "2018-02-18",
+        "2018-02-19",
+        "2018-02-20",
+        "2018-02-21"
+      ]
+    },
+    {
+      "date": "2018-02-21",
+      "localName": "春节",
+      "name": "Spring Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-02-11",
+        "2018-02-24"
+      ],
+      "extendedDaysOff": [
+        "2018-02-15",
+        "2018-02-16",
+        "2018-02-17",
+        "2018-02-18",
+        "2018-02-19",
+        "2018-02-20",
+        "2018-02-21"
+      ]
+    },
+    {
+      "date": "2018-04-05",
+      "localName": "清明节",
+      "name": "Qingming Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-04-08"
+      ],
+      "extendedDaysOff": [
+        "2018-04-05",
+        "2018-04-06",
+        "2018-04-07"
+      ]
+    },
+    {
+      "date": "2018-04-06",
+      "localName": "清明节",
+      "name": "Qingming Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-04-08"
+      ],
+      "extendedDaysOff": [
+        "2018-04-05",
+        "2018-04-06",
+        "2018-04-07"
+      ]
+    },
+    {
+      "date": "2018-04-07",
+      "localName": "清明节",
+      "name": "Qingming Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-04-08"
+      ],
+      "extendedDaysOff": [
+        "2018-04-05",
+        "2018-04-06",
+        "2018-04-07"
+      ]
+    },
+    {
+      "date": "2018-04-29",
+      "localName": "劳动节",
+      "name": "Labor Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-04-28"
+      ],
+      "extendedDaysOff": [
+        "2018-04-29",
+        "2018-04-30",
+        "2018-05-01"
+      ]
+    },
+    {
+      "date": "2018-04-30",
+      "localName": "劳动节",
+      "name": "Labor Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-04-28"
+      ],
+      "extendedDaysOff": [
+        "2018-04-29",
+        "2018-04-30",
+        "2018-05-01"
+      ]
+    },
+    {
+      "date": "2018-05-01",
+      "localName": "劳动节",
+      "name": "Labor Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-04-28"
+      ],
+      "extendedDaysOff": [
+        "2018-04-29",
+        "2018-04-30",
+        "2018-05-01"
+      ]
+    },
+    {
+      "date": "2018-06-16",
+      "localName": "端午节",
+      "name": "Dragon Boat Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [],
+      "extendedDaysOff": [
+        "2018-06-16",
+        "2018-06-17",
+        "2018-06-18"
+      ]
+    },
+    {
+      "date": "2018-06-17",
+      "localName": "端午节",
+      "name": "Dragon Boat Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [],
+      "extendedDaysOff": [
+        "2018-06-16",
+        "2018-06-17",
+        "2018-06-18"
+      ]
+    },
+    {
+      "date": "2018-06-18",
+      "localName": "端午节",
+      "name": "Dragon Boat Festival",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [],
+      "extendedDaysOff": [
+        "2018-06-16",
+        "2018-06-17",
+        "2018-06-18"
+      ]
+    },
+    {
+      "date": "2018-09-22",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-09-23",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-09-24",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-10-01",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-10-02",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-10-03",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-10-04",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-10-05",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-10-06",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-10-07",
+      "localName": "国庆节",
+      "name": "National Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-09-29",
+        "2018-09-30"
+      ],
+      "extendedDaysOff": [
+        "2018-09-22",
+        "2018-09-23",
+        "2018-09-24",
+        "2018-10-01",
+        "2018-10-02",
+        "2018-10-03",
+        "2018-10-04",
+        "2018-10-05",
+        "2018-10-06",
+        "2018-10-07"
+      ]
+    },
+    {
+      "date": "2018-12-30",
+      "localName": "元旦",
+      "name": "New Year's Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-12-29"
+      ],
+      "extendedDaysOff": [
+        "2018-01-01",
+        "2018-12-30",
+        "2018-12-31"
+      ]
+    },
+    {
+      "date": "2018-12-31",
+      "localName": "元旦",
+      "name": "New Year's Day",
+      "countryCode": "CN",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ],
+      "adjustWorkdays": [
+        "2018-12-29"
+      ],
+      "extendedDaysOff": [
+        "2018-01-01",
+        "2018-12-30",
+        "2018-12-31"
+      ]
+    }
+  ]
+}
