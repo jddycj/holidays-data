@@ -1,37 +1,76 @@
 # holidays-data
 
-#### 介绍
-节假日数据
+节假日数据集合，包含多个地区的公共节假日信息。
 
-#### 软件架构
-软件架构说明
+## 支持地区
 
+- 中国大陆
+- 香港
+- 美国
+- 法国
+- 德国
+- 日本
 
-#### 安装教程
+## 数据格式
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+每个地区每年一个 JSON 文件，按 `data/{地区}/{年份}.json` 组织：
 
-#### 使用说明
+```json
+{
+  "region": "china",
+  "year": 2026,
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "localName": "元旦",
+      "name": "New Year's Day",
+      "countryCode": "CN",
+      "fixed": true,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": ["Public"]
+    }
+  ]
+}
+```
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 字段说明
 
-#### 参与贡献
+| 字段 | 说明 |
+|------|------|
+| `date` | 日期（YYYY-MM-DD） |
+| `localName` | 当地语言名称 |
+| `name` | 英文名称 |
+| `countryCode` | 国家/地区代码 |
+| `fixed` | 日期是否固定 |
+| `global` | 是否全国/全境适用 |
+| `counties` | 部分地区适用时列出地区代码 |
+| `launchYear` | 节假日创立年份 |
+| `types` | 类型，`Public` = 法定节假日 |
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## 数据来源
 
+- **中国大陆、香港：** 手动维护
+- **美国、法国、德国、日本：** 通过 [nager.at API](https://date.nager.at/) 获取
 
-#### 特技
+## 更新数据
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+```bash
+# 安装依赖
+npm install
+
+# 从 nager.at 获取数据
+npm run fetch-data
+```
+
+## 参与贡献
+
+1. Fork 本仓库
+2. 新建 `Feat_xxx` 分支
+3. 提交代码
+4. 新建 Pull Request
+
+## 许可证
+
+MIT
