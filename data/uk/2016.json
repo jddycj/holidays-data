@@ -1,0 +1,198 @@
+{
+  "region": "uk",
+  "year": 2016,
+  "holidays": [
+    {
+      "date": "2016-01-01",
+      "localName": "New Year's Day",
+      "name": "New Year's Day",
+      "code": "GB",
+      "fixed": false,
+      "global": false,
+      "counties": [
+        "GB-ENG",
+        "GB-NIR",
+        "GB-SCT",
+        "GB-WLS"
+      ],
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-01-02",
+      "localName": "2 January",
+      "name": "2 January",
+      "code": "GB",
+      "fixed": false,
+      "global": false,
+      "counties": [
+        "GB-SCT"
+      ],
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-03-17",
+      "localName": "Saint Patrick's Day",
+      "name": "Saint Patrick's Day",
+      "code": "GB",
+      "fixed": false,
+      "global": false,
+      "counties": [
+        "GB-NIR"
+      ],
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-03-25",
+      "localName": "Good Friday",
+      "name": "Good Friday",
+      "code": "GB",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-03-28",
+      "localName": "Easter Monday",
+      "name": "Easter Monday",
+      "code": "GB",
+      "fixed": false,
+      "global": false,
+      "counties": [
+        "GB-ENG",
+        "GB-WLS",
+        "GB-NIR"
+      ],
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-05-02",
+      "localName": "Early May Bank Holiday",
+      "name": "Early May Bank Holiday",
+      "code": "GB",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-05-30",
+      "localName": "Spring Bank Holiday",
+      "name": "Spring Bank Holiday",
+      "code": "GB",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-07-12",
+      "localName": "Battle of the Boyne",
+      "name": "Battle of the Boyne",
+      "code": "GB",
+      "fixed": false,
+      "global": false,
+      "counties": [
+        "GB-NIR"
+      ],
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-08-01",
+      "localName": "Summer Bank Holiday",
+      "name": "Summer Bank Holiday",
+      "code": "GB",
+      "fixed": false,
+      "global": false,
+      "counties": [
+        "GB-SCT"
+      ],
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-08-29",
+      "localName": "Summer Bank Holiday",
+      "name": "Summer Bank Holiday",
+      "code": "GB",
+      "fixed": false,
+      "global": false,
+      "counties": [
+        "GB-ENG",
+        "GB-WLS",
+        "GB-NIR"
+      ],
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-11-30",
+      "localName": "Saint Andrew's Day",
+      "name": "Saint Andrew's Day",
+      "code": "GB",
+      "fixed": false,
+      "global": false,
+      "counties": [
+        "GB-SCT"
+      ],
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-12-27",
+      "localName": "Christmas Day",
+      "name": "Christmas Day",
+      "code": "GB",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2016-12-26",
+      "localName": "Boxing Day",
+      "name": "St. Stephen's Day",
+      "code": "GB",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    }
+  ]
+}

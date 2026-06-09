@@ -8,6 +8,7 @@ Public holiday data collection for multiple regions.
 |--------|-----------|------|
 | China | china | CN |
 | Hong Kong | hongkong | HK |
+| United Kingdom | uk | GB |
 | United States | usa | US |
 | France | france | FR |
 | Germany | germany | DE |

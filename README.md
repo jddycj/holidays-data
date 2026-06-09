@@ -8,6 +8,7 @@
 |------|--------|------|
 | 中国大陆 | china | CN |
 | 香港 | hongkong | HK |
+| 英国 | uk | GB |
 | 美国 | usa | US |
 | 法国 | france | FR |
 | 德国 | germany | DE |
