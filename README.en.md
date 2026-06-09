@@ -26,7 +26,7 @@ One JSON file per region per year, stored at: `data/{directory}/{year}.json`
       "date": "2026-01-01",
       "localName": "元旦",
       "name": "New Year's Day",
-      "countryCode": "CN",
+      "code": "CN",
       "fixed": false,
       "global": true,
       "counties": null,
@@ -46,7 +46,7 @@ One JSON file per region per year, stored at: `data/{directory}/{year}.json`
 | `date` | Date (YYYY-MM-DD) |
 | `localName` | Local language name |
 | `name` | English name |
-| `countryCode` | Country/region code |
+| `code` | Country/region code |
 | `fixed` | Whether the date is fixed |
 | `global` | Whether it applies nationwide |
 | `counties` | County codes if only applicable to certain areas |

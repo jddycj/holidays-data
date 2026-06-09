@@ -26,7 +26,7 @@
       "date": "2026-01-01",
       "localName": "元旦",
       "name": "New Year's Day",
-      "countryCode": "CN",
+      "code": "CN",
       "fixed": false,
       "global": true,
       "counties": null,
@@ -46,7 +46,7 @@
 | `date` | 日期（YYYY-MM-DD） |
 | `localName` | 当地语言名称 |
 | `name` | 英文名称 |
-| `countryCode` | 国家/地区代码 |
+| `code` | 国家/地区代码 |
 | `fixed` | 日期是否固定 |
 | `global` | 是否全国/全境适用 |
 | `counties` | 部分地区适用时列出地区代码 |
