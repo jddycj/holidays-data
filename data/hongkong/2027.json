@@ -1,0 +1,227 @@
+{
+  "region": "hongkong",
+  "year": 2027,
+  "holidays": [
+    {
+      "date": "2027-01-01",
+      "localName": "元旦新年",
+      "name": "New Year's Day",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-02-06",
+      "localName": "農曆年初一",
+      "name": "Lunar New Year",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-02-08",
+      "localName": "農曆年初二",
+      "name": "Second day of Lunar New Year",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-02-09",
+      "localName": "農曆年初三",
+      "name": "Third day of Lunar New Year",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-03-26",
+      "localName": "耶穌受難節",
+      "name": "Good Friday",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-03-27",
+      "localName": "耶穌受難節翌日",
+      "name": "Holy Saturday",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-03-29",
+      "localName": "復活節星期一",
+      "name": "Easter Monday",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-04-05",
+      "localName": "清明節",
+      "name": "Ching Ming Festival",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-05-01",
+      "localName": "勞動節",
+      "name": "Labour Day",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-05-13",
+      "localName": "佛誕",
+      "name": "Buddha's Birthday",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-06-09",
+      "localName": "端午節",
+      "name": "Dragon Boat Festival",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-07-01",
+      "localName": "香港特別行政區成立紀念日",
+      "name": "Hong Kong Special Administrative Region Establishment Day",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-09-16",
+      "localName": "中秋節翌日",
+      "name": "Day following the Mid-Autumn Festival",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-10-01",
+      "localName": "中華人民共和國國慶日",
+      "name": "National Day",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-10-08",
+      "localName": "重陽節",
+      "name": "Chung Yeung Festival",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-12-25",
+      "localName": "聖誕節",
+      "name": "Christmas Day",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    },
+    {
+      "date": "2027-12-27",
+      "localName": "聖誕節翌日",
+      "name": "Boxing Day",
+      "code": "HK",
+      "fixed": false,
+      "global": true,
+      "counties": null,
+      "launchYear": null,
+      "types": [
+        "Public"
+      ]
+    }
+  ]
+}
